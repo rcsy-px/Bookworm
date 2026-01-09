@@ -1,0 +1,18 @@
+/* Felső sáv kék háttere */
+.header-bg {
+    background-color: #2F6FED; /* hasonló a képen látható kékhez */
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}
+
+/* Kártyák lekerekítése */
+.card {
+    border-radius: 1.5rem;
+}
+
+/* Kör alakú gombok */
+.btn.rounded-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
